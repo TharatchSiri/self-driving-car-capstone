@@ -10,11 +10,18 @@ The goal of the project is to fully implement with ROS the main modules of an au
 
 For validation the code was tested using a simulator where the car drives around a highway test track with traffic lights.
 
-
 ## Carla: The Test Car
 ![alt text][image1]
 
-The project will be evaluated on Carla, an autonomous Lincoln MKZ, at Udacity´s test site in Palo Alto, California. The operating system Carla runs on is Ubuntu Linux. 
+As the first step, the project will be evaluated in a speedway simulator.
+Here is the recording of car performance.
+ [![simulator](https://img.youtube.com/vi/NnkCm7HQY_A/0.jpg)](https://youtu.be/NnkCm7HQY_A)
+
+The project was also evaluated on Carla, an autonomous Lincoln MKZ, at Udacity´s test site in Palo Alto, California. 
+Here is the recording of car performance on the test parking lot.
+ [![simulator](https://img.youtube.com/vi/v5yzrBtW-q4/0.jpg)](https://youtu.be/v5yzrBtW-q4)
+
+The operating system Carla runs on is Ubuntu Linux. 
 
 Udacity Self-Driving Car Harware Specs:
 * 31.4 GiB Memory
